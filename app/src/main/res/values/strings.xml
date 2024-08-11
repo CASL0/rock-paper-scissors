@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Rock Paper Scissors</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissors">SCISSORS</string>
+    <string name="find">FIND OPPONENT</string>
 </resources>
